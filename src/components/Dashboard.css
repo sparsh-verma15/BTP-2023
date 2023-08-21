@@ -1,0 +1,10 @@
+.menuContainer {
+    border: 1px solid black;
+    padding: 1%;
+    background-color: black;
+    border-radius: 10px;
+    font-size: 18px;
+    align-items: center;
+    color: white;
+    font-weight: 500;
+}
